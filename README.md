@@ -6,3 +6,8 @@
 ## como usar
 ...
 git clone https://github.com/joao-paulo/projeto-git
+## Tecnologias
+| Tecnologia | Uso |
+|------------|-----|
+| Git        | Controle de Versão |
+| Markdown   | Documentação |
