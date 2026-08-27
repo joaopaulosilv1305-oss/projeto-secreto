@@ -11,3 +11,6 @@ git clone https://github.com/joao-paulo/projeto-git
 |------------|-----|
 | Git        | Controle de Versão |
 | Markdown   | Documentação |
+let nome = "João-Paulo";
+let idade = 20;
+let estudante = true;
